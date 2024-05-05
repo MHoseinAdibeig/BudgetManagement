@@ -1,0 +1,36 @@
+<!DOCTYPE RCC>
+<RCC version='1.0'>
+    <qresource>
+        <file>icons/alarm.png</file>
+        <file>icons/calendar.png</file>
+        <file>icons/home.png</file>
+        <file>icons/clock _1.png</file>
+        <file>icons/history_1.png</file>
+        <file>icons/alarm.png</file>
+        <file>icons/forward.png</file>
+        <file>icons/refresh.png</file>
+        <file>icons/play-button.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/idea.png</file>
+        <file>icons/fan3.png</file>
+        <file>icons/icon.png</file>
+        <file>icons/ultraviolet.png</file>
+        <file>icons/logo1.png</file>
+        <file>icons/on.png</file>
+        <file>icons/off.jpeg</file>
+        <file>icons/wforecast.png</file>
+        <file>icons/digram1.JPG</file>
+        <file>icons/digram2.JPG</file>
+        <file>icons/profile.png</file>
+        <file>icons/dash.jpg</file>
+        <file>icons/AccountApp.jpg</file>
+        <file>icons/logo.jpg</file>
+        <file>icons/logo-no-background.png</file>
+        <file>icons/inno.png</file>
+        <file>icons/inno-tech.png</file>
+        
+        
+        
+
+    </qresource>
+</RCC>
